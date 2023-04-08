@@ -21,7 +21,7 @@ I'm a frontend developer. I build seamless web experiences and web applications 
 
 <br>
 
-# 📚 My Blog posts
+## 📚 My Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 
