@@ -16,4 +16,9 @@
 # 📚 My Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You might not use == &lpar;Double&rpar; Again!](https://devlawrence.hashnode.dev/you-might-not-use-double-again)
+- [All you need to know about Pass by Value and Pass by Reference](https://devlawrence.hashnode.dev/all-you-need-to-know-about-pass-by-value-and-pass-by-reference)
+- [My approach on writing an article with a real live project](https://devlawrence.hashnode.dev/my-approach-on-writing-an-article-with-a-real-live-project)
+- [Everything you need to know about Promises](https://devlawrence.hashnode.dev/everything-you-need-to-know-about-promises)
+- [Debugging a JavaScript Problem with a CSS Solution](https://devlawrence.hashnode.dev/debugging-a-javascript-problem-with-a-css-solution)
 <!-- BLOG-POST-LIST:END -->
