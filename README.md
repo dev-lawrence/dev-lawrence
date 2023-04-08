@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Lawrence 
+# 👋 Hi, I’m Lawrence
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=dev-lawrence&show_icons=true&theme=merko" />
 
@@ -13,8 +13,7 @@
 <img align="left" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
 
+# 📚 My Blog posts
 
-
-
-
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
