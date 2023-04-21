@@ -24,11 +24,11 @@ I'm a frontend developer. I build seamless web experiences and web applications 
 ## 📚 My Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hoisting in JavaScript](https://devlawrence.hashnode.dev/hoisting-in-javascript)
 - [Do you really know how setTimeout and setInterval work?](https://devlawrence.hashnode.dev/do-you-really-know-how-settimeout-and-setinterval-work)
 - [You might not use == &lpar;Double&rpar; Again!](https://devlawrence.hashnode.dev/you-might-not-use-double-again)
 - [All you need to know about Pass by Value and Pass by Reference](https://devlawrence.hashnode.dev/all-you-need-to-know-about-pass-by-value-and-pass-by-reference)
 - [My approach on writing an article with a real live project](https://devlawrence.hashnode.dev/my-approach-on-writing-an-article-with-a-real-live-project)
-- [Everything you need to know about Promises](https://devlawrence.hashnode.dev/everything-you-need-to-know-about-promises)
 <!-- BLOG-POST-LIST:END -->
 
 #
