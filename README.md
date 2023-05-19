@@ -24,11 +24,11 @@ I'm a frontend developer. I build seamless web experiences and web applications 
 ## 📚 My Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with JSON: Streamlining Data Handling for Beginners](https://devlawrence.hashnode.dev/getting-started-with-json-streamlining-data-handling-for-beginners)
 - [Demystifying Array Destructuring: A Beginner&#39;s Perspective](https://devlawrence.hashnode.dev/demystifying-array-destructuring-a-beginners-perspective)
 - [Let’s build a confetti Effect 🎉 with Vanilla JavaScript](https://devlawrence.hashnode.dev/lets-build-a-confetti-effect-with-vanilla-javascript)
 - [How to Build an Accordion Menu](https://devlawrence.hashnode.dev/how-to-build-an-accordion-menu)
 - [Hoisting in JavaScript](https://devlawrence.hashnode.dev/hoisting-in-javascript)
-- [Do you really know how setTimeout and setInterval work?](https://devlawrence.hashnode.dev/do-you-really-know-how-settimeout-and-setinterval-work)
 <!-- BLOG-POST-LIST:END -->
 
 #
