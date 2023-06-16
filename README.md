@@ -24,11 +24,11 @@ I'm a frontend developer. I build seamless web experiences and web applications 
 ## 📚 My Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating an Interactive Tabbed Interface with JavaScript](https://devlawrence.hashnode.dev/creating-an-interactive-tabbed-interface-with-javascript)
 - [Level Up Your JavaScript Skills with the Spread Operator](https://devlawrence.hashnode.dev/level-up-your-javascript-skills-with-the-spread-operator)
 - [Turbocharge Your Coding: How Fast Typing Boosts Developer Productivity](https://devlawrence.hashnode.dev/turbocharge-your-coding-how-fast-typing-boosts-developer-productivity)
 - [From Scratch to App: Building an Advice Generator with HTML, CSS, and JavaScript](https://devlawrence.hashnode.dev/from-scratch-to-app-building-an-advice-generator-with-html-css-and-javascript)
 - [Getting Started with JSON: Streamlining Data Handling for Beginners](https://devlawrence.hashnode.dev/getting-started-with-json-streamlining-data-handling-for-beginners)
-- [Demystifying Array Destructuring: A Beginner&#39;s Perspective](https://devlawrence.hashnode.dev/demystifying-array-destructuring-a-beginners-perspective)
 <!-- BLOG-POST-LIST:END -->
 
 #
