@@ -24,11 +24,11 @@ I'm a frontend developer. I build seamless web experiences and web applications 
 ## 📚 My Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sync clerk users to your database using Webhooks: A Step-by-Step Guide](https://devlawrence.hashnode.dev/sync-clerk-users-to-your-database-using-webhooks-a-step-by-step-guide)
 - [Understanding the difference between Map and ForEach method.](https://devlawrence.hashnode.dev/understanding-the-difference-between-map-and-foreach-method)
 - [Exploring API Integration: Building a Search Bar for Rick and Morty Characters](https://devlawrence.hashnode.dev/exploring-api-integration-building-a-search-bar-for-rick-and-morty-characters)
 - [Getting Started with REST API: Beginner&#39;s Tutorial](https://devlawrence.hashnode.dev/getting-started-with-rest-api-beginners-tutorial)
 - [Understanding HTTP: Basics for Beginners](https://devlawrence.hashnode.dev/understanding-http-basics-for-beginners)
-- [Creating an Interactive Tabbed Interface with JavaScript](https://devlawrence.hashnode.dev/creating-an-interactive-tabbed-interface-with-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 #
