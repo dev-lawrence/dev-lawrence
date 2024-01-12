@@ -24,11 +24,11 @@ I'm a frontend developer. I build seamless web experiences and web applications 
 ## 📚 My Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting up React your React App](https://devlawrence.hashnode.dev/setting-up-react-your-react-app)
 - [Introduction to React](https://devlawrence.hashnode.dev/introduction-to-react)
 - [Implementing Paystack Payment in a React Application: A Step-by-Step Guide](https://devlawrence.hashnode.dev/implementing-paystack-payment-in-a-react-application-a-step-by-step-guide)
 - [Sync clerk users to your database using Webhooks: A Step-by-Step Guide](https://devlawrence.hashnode.dev/sync-clerk-users-to-your-database-using-webhooks-a-step-by-step-guide)
 - [Understanding the difference between Map and ForEach method.](https://devlawrence.hashnode.dev/understanding-the-difference-between-map-and-foreach-method)
-- [Exploring API Integration: Building a Search Bar for Rick and Morty Characters](https://devlawrence.hashnode.dev/exploring-api-integration-building-a-search-bar-for-rick-and-morty-characters)
 <!-- BLOG-POST-LIST:END -->
 
 #
