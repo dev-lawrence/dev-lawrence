@@ -24,11 +24,11 @@ I'm a frontend developer. I build seamless web experiences and web applications 
 ## 📚 My Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [React State with live Project](https://devlawrence.hashnode.dev/react-state-with-live-project)
+- [React Hooks - UseEffect](https://devlawrence.hashnode.dev/react-hooks-useeffect)
+- [React Hooks - UseState](https://devlawrence.hashnode.dev/react-hooks-usestate)
 - [Props with live Project](https://devlawrence.hashnode.dev/props-with-live-project)
 - [React&#39;s Core Concepts - Jsx and Components](https://devlawrence.hashnode.dev/reacts-core-concepts-jsx-and-components)
 - [Creating an Image Expand Gallery](https://devlawrence.hashnode.dev/creating-an-image-expand-gallery)
-- [Setting up React your React App](https://devlawrence.hashnode.dev/setting-up-react-your-react-app)
 <!-- BLOG-POST-LIST:END -->
 
 #
