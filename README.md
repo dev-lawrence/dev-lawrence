@@ -26,11 +26,11 @@ I'm a frontend developer. I build seamless web experiences and web applications 
 ## 📚 My Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Context Api - UseContext&lpar;&rpar;](https://devlawrence.hashnode.dev/context-api-usecontext)
 - [GitHub Basics: Forking vs. Cloning Explained](https://devlawrence.hashnode.dev/github-basics-forking-vs-cloning-explained)
 - [React Hooks - UseEffect](https://devlawrence.hashnode.dev/react-hooks-useeffect)
 - [React Hooks - UseState](https://devlawrence.hashnode.dev/react-hooks-usestate)
 - [Props with live Project](https://devlawrence.hashnode.dev/props-with-live-project)
-- [React&#39;s Core Concepts - Jsx and Components](https://devlawrence.hashnode.dev/reacts-core-concepts-jsx-and-components)
 <!-- BLOG-POST-LIST:END -->
 
 #
