@@ -6,7 +6,7 @@ I'm a frontend developer. I build seamless web experiences and web applications 
 
 ---
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -21,15 +21,16 @@ I'm a frontend developer. I build seamless web experiences and web applications 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-# 📚 My Blog posts
+<br>
+
+## 📚 My Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [You might not use == &lpar;Double&rpar; Again!](https://devlawrence.hashnode.dev/you-might-not-use-double-again)
-- [All you need to know about Pass by Value and Pass by Reference](https://devlawrence.hashnode.dev/all-you-need-to-know-about-pass-by-value-and-pass-by-reference)
-- [My approach on writing an article with a real live project](https://devlawrence.hashnode.dev/my-approach-on-writing-an-article-with-a-real-live-project)
-- [Everything you need to know about Promises](https://devlawrence.hashnode.dev/everything-you-need-to-know-about-promises)
-- [Debugging a JavaScript Problem with a CSS Solution](https://devlawrence.hashnode.dev/debugging-a-javascript-problem-with-a-css-solution)
+- [GitHub Basics: Forking vs. Cloning Explained](https://devlawrence.hashnode.dev/github-basics-forking-vs-cloning-explained)
+- [React Hooks - UseEffect](https://devlawrence.hashnode.dev/react-hooks-useeffect)
+- [React Hooks - UseState](https://devlawrence.hashnode.dev/react-hooks-usestate)
+- [Props with live Project](https://devlawrence.hashnode.dev/props-with-live-project)
+- [React&#39;s Core Concepts - Jsx and Components](https://devlawrence.hashnode.dev/reacts-core-concepts-jsx-and-components)
 <!-- BLOG-POST-LIST:END -->
 
 #
