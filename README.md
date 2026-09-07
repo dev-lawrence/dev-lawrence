@@ -1,42 +1,25 @@
-# 🧑🏽‍💻 Dev Lawrence
+# Lawrence — Software Engineer
 
-**`Digital Dev (Developer/Technical Writer)`**
+I build web products end to end — from Figma to production. My focus is on
+clean, well-tested interfaces backed by solid APIs and data models.
 
-I'm a frontend developer. I build seamless web experiences and web applications by transforming Figma and Adobe XD designs into real and usable websites and apps. I enjoy web development because of the challenges it brings and I also enjoy the process of me solving those challenges. I also enjoy teaching concepts of web development through technical writing.
+## Tech
 
----
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, REST APIs, PostgreSQL, MongoDB
+- **Testing & tooling:** Vitest, Playwright, GitHub Actions, CI/CD
 
-## 🧰 Languages and Tools
+## Featured work
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-<img align="left" alt="Php" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="left" alt="Mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br />
+| Project | What it is |
+| --- | --- |
+| [Centrl](https://www.centrl.ng/) | Event management platform to create, manage, and grow events from one place. |
+| [Subtrack](https://getsubtrack.xyz/) | Subscription tracker that surfaces recurring payments and reminds you before renewals. |
+| [Fontlog](https://fontlog.netlify.app/) | Curated collection of open-source typefaces for developers, with live previews and install commands. |
 
-<br>
+## Contact
 
-## 📚 My Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Context Api - UseContext&lpar;&rpar;](https://devlawrence.hashnode.dev/context-api-usecontext)
-- [GitHub Basics: Forking vs. Cloning Explained](https://devlawrence.hashnode.dev/github-basics-forking-vs-cloning-explained)
-- [React Hooks - UseEffect](https://devlawrence.hashnode.dev/react-hooks-useeffect)
-- [React Hooks - UseState](https://devlawrence.hashnode.dev/react-hooks-usestate)
-- [Props with live Project](https://devlawrence.hashnode.dev/props-with-live-project)
-<!-- BLOG-POST-LIST:END -->
-
-#
-
-### 📊 Stats
-
-![Dev Lawrence's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-lawrence&show_icons=true&theme=gruvbox)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=dev-lawrence&theme=gruvbox&border_radius=4.5)
+- Portfolio: <https://devlawrence.netlify.app/>
+- LinkedIn: <https://www.linkedin.com/in/lawrence-amrasakpare/>
+- X: [@Lawrence_sticks](https://twitter.com/Lawrence_sticks)
+- Email: lawrencestixx@gmail.com
