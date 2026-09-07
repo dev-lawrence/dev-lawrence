@@ -8,6 +8,7 @@ clean, well-tested interfaces backed by solid APIs and data models.
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS
 - **Backend:** Node.js, REST APIs, PostgreSQL, MongoDB
 - **Testing & tooling:** Vitest, Playwright, GitHub Actions, CI/CD
+- **AI-assisted:** Claude Code, Cursor, GitHub Copilot
 
 ## Featured work
 
